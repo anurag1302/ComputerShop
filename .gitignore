@@ -1,0 +1,14 @@
+src/API/ComputerShop.Api/bin/
+src/API/ComputerShop.Api/obj/
+
+src/Core/ComputerShop.Application/bin/
+src/Core/ComputerShop.Application/obj/
+
+src/Core/ComputerShop.Domain/bin/
+src/Core/ComputerShop.Domain/obj/
+
+src/Infrastructure/ComputerShop.Infrastructure/bin/
+src/Infrastructure/ComputerShop.Infrastructure/obj/
+
+tests/ComputerShop.UnitTests/bin/
+tests/ComputerShop.UnitTests/obj/
